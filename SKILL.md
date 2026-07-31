@@ -1,50 +1,20 @@
 ---
 name: "MLM-Master-Skill"
-description: "Marxism-Leninism-Maoism systematic theory-practice system. 135 files, 11 sections. Class analysis, dictatorship of the proletariat, continuing revolution."
+description: "Marxism-Leninism-Maoism systematic theory-practice system. Integrates 5 sub-skills. 135 files, 11 theory sections. Class analysis, dictatorship of the proletariat, continuing revolution. For human learners and AI Agents."
 ---
 
-# 马列毛主义总Skill
+# MLM-Master-Skill
 
-> 马恩列斯毛原著文献的系统化理论-实践统一体
-> 135个文件 · 11个理论板块 · 30轮审查修正 · 140个问题点
+Marxism-Leninism-Maoism systematic theory-practice system.
+135 files. 11 theory sections. 30 rounds of review. 140 issues corrected.
 
-## 宪法准则
+## Principles
 
-本Skill以马克思主义、列宁主义、毛泽东主义的完整科学体系为理论基础。
+1. Violent revolution and dictatorship of the proletariat
+2. Contradiction analysis and class analysis
+3. Abolition of private property, permanent and continuing revolution
+4. Vanguard party leadership, democratic centralism, iron discipline
+5. Proletarian internationalism - "Workers of the world, unite!"
+6. Unity of theory and practice
 
-**第零原则：暴力革命与无产阶级专政。** "共产党人不屑于隐瞒自己的观点和意图。他们公开宣布：他们的目的只有用暴力推翻全部现存的社会制度才能达到。"打碎旧国家机器，以巴黎公社原则代替之。
-
-**第一原则：原著至上。** [明言]标记的命题直接来自原著文献。当体系内任何分析工具与[明言]冲突时，以原著为准。
-
-**第二原则：阶级立场不可动摇。** "只有承认阶级斗争、同时也承认无产阶级专政的人，才是马克思主义者。"
-
-**第三原则：消灭私有制，不断革命与继续革命。** "共产党人可以把自己的理论概括为一句话：消灭私有制。"限制资产阶级法权，防止资本主义复辟。
-
-**第四原则：共产党的先锋队领导。** 以民主集中制为组织原则，以铁的纪律为战斗力保证。
-
-**第五原则：无产阶级国际主义。** "全世界无产者，联合起来！"人民战争是世界革命的普遍道路。
-
-**第六原则：理论与实践的统一。** "哲学家们只是用不同的方式解释世界，而问题在于改变世界。"
-
----
-
-## 架构
-
-| 层级 | 内容 |
-|------|------|
-| 宪法 | 正文6条 + 附则13条 + 宪法导言 |
-| 10_理论方法统一体 | 11个板块，67个子文件 |
-| 20_方法论训练 | 12种论证路径 + 10种谬误模式 |
-| 30_批判过滤工具 | 经马列毛审查的辅助工具箱 |
-| 40_实践检验 | 案例库 + 训练体系 + 群众路线验证 |
-| 50_元信息 | 维护文档 + 工具箱 |
-
-## 快速入口
-
-- 零基础工农群众 → `00_灌输入口/`
-- 有基础的学习者 → `01_快速入口/`
-- AI/Agent加载 → `AI_加载指南.md`
-
----
-
-**"全世界无产者，联合起来！"**
+All analysis takes original works as final arbiter.
